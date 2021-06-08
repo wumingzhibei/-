@@ -63,8 +63,10 @@ And more anime results:
 ![demo4](demos/vinland_3.gif)
 ![demo5](demos/vinland_1.gif)
 
-## Contact
-[Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1).
+## 赞助
+如果你觉得不错的话，请我喝杯奶茶吧,谢谢你  
+<img src="https://github.com/wumingzhibei/happybirthday.io/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210608103709.png?raw=true" width="50%">
+
 
 You can also leave your questions as issues in the repository. I will be glad to answer them!
 
